@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel AI - Threat Analyzer",
+  "description": "A heuristic malware analysis dashboard powered by Gemini. Upload suspicious scripts, logs, or code snippets to detect Trojans, obfuscation, and malicious intent.",
+  "requestFramePermissions": []
+}
